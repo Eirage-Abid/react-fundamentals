@@ -1,4 +1,4 @@
-# React Fundamentals Lab (Level 4)
+# React Fundamentals
 
 A simple React project built during MERN internship training.
 
